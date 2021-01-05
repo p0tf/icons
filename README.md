@@ -1,4 +1,4 @@
-# PotfMan Icons
+# PotaufeuMan Icons
 ![PotfMan](https://raw.githubusercontent.com/potfman/icons/main/128/normal-16.png)
 ![PotfMan](https://raw.githubusercontent.com/potfman/icons/main/128/casual-16.png)
 ![PotfMan](https://raw.githubusercontent.com/potfman/icons/main/128/santa-16.png)
